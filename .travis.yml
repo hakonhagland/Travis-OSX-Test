@@ -1,0 +1,10 @@
+os:
+  - linux
+  - osx
+language: perl
+perl:
+  - 5.32
+before_install:
+  - eval $(curl https://travis-perl.github.io/init) --auto
+notifications:
+  email: false

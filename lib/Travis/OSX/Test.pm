@@ -9,6 +9,8 @@ our $VERSION = '0.001';
 
 =head1 NAME
 
+=encoding UTF-8
+
 Travis::OSX::Test - Module abstract placeholder text
 
 =head1 SYNOPSIS
